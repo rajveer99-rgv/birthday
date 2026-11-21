@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3eafa"/><stop offset="1" stop-color="#fff4f7"/></linearGradient><pattern id="p" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M22 7 C7 18 12 32 22 37 C32 32 37 18 22 7Z" fill="none" stroke="#d8c2e5" stroke-opacity=".32" stroke-width="1.5"/></pattern></defs>
+<rect width="800" height="1000" fill="url(#g)"/><rect width="800" height="1000" fill="url(#p)"/>
+<circle cx="400" cy="390" r="145" fill="#fff" fill-opacity=".65" stroke="#d8c2e5" stroke-width="3" stroke-dasharray="9 12"/>
+<text x="400" y="365" text-anchor="middle" font-family="Georgia,serif" font-size="100" fill="#9c7db2">♡</text>
+<text x="400" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" letter-spacing="5" fill="#8e739f">ADD YOUR PHOTO</text>
+<text x="400" y="790" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#6e587c">My favourite girl</text>
+<text x="400" y="850" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#9b8aa5">photo 08 · our little universe</text>
+<text x="400" y="930" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#b28fbd">🤍  🌷  💜</text>
+</svg>
